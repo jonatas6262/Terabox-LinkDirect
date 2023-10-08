@@ -1,1 +1,8 @@
-# Terabox-LinkDirect
+```
+npm install
+npm run dev
+```
+
+```
+npm run deploy
+```
